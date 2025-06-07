@@ -15,8 +15,8 @@
 # production
 /build
 
-/query
-/seed
+/query/
+/seed/
 
 # misc
 .DS_Store
