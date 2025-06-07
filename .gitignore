@@ -16,8 +16,8 @@
 /build
 
 # database seed and test query
-/app/query/
-/app/seed/
+**/query/
+**/seed/
 
 # misc
 .DS_Store
